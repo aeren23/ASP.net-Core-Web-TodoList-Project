@@ -1,0 +1,73 @@
+*{
+    
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    background-color:gray;
+}
+.header{
+    background-color:darkkhaki;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    position: static;
+}
+.content{
+    margin: 13px;
+    padding: 13px;
+    background-color: white;
+    border-radius: 10px;
+}
+label{
+    font-size: 30px;
+}
+form{
+    background-color: rgba(169, 169, 169, 0.992);
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 35px;
+}
+#taskDate{
+    padding: 5px;
+    float: right;
+    color: darkkhaki;
+    border-color: darkkhaki;
+    border-style:ridge;
+    border-radius: 7px;
+}
+#taskDateLbl{
+    font-size: 20px;
+    margin: 5px;
+}
+.divc{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.btnM{
+    background-color: darkkhaki;
+}
+.task-list {
+    background-color: darkkhaki;
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 150px;
+    display: inline-block;
+}
+.completed-task{
+    background-color: rgba(169, 169, 169, 0.992);
+    padding: 10px;
+    border-radius: 10px;
+    width: 100%;
+    margin-top: 50px;
+    display: inline-block;
+    margin-bottom: 75px;
+}
+#foot{
+    background-color: darkkhaki;
+    height: 200px;
+}

@@ -1,0 +1,17 @@
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\bin\Debug\net8.0\ToDoList.DataAccessLayer.deps.json
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\bin\Debug\net8.0\ToDoList.DataAccessLayer.runtimeconfig.json
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\bin\Debug\net8.0\ToDoList.DataAccessLayer.dll
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\bin\Debug\net8.0\ToDoList.DataAccessLayer.pdb
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\bin\Debug\net8.0\ToDoList.EntityLayer.dll
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\bin\Debug\net8.0\ToDoList.EntityLayer.pdb
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\obj\Debug\net8.0\ToDoList.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\obj\Debug\net8.0\ToDoList.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\obj\Debug\net8.0\ToDoList.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\obj\Debug\net8.0\ToDoList.DataAccessLayer.AssemblyInfo.cs
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\obj\Debug\net8.0\ToDoList.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\obj\Debug\net8.0\ToDoList.74BAF42C.Up2Date
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\obj\Debug\net8.0\ToDoList.DataAccessLayer.dll
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\obj\Debug\net8.0\refint\ToDoList.DataAccessLayer.dll
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\obj\Debug\net8.0\ToDoList.DataAccessLayer.pdb
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\obj\Debug\net8.0\ToDoList.DataAccessLayer.genruntimeconfig.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DataAccessLayer\obj\Debug\net8.0\ref\ToDoList.DataAccessLayer.dll

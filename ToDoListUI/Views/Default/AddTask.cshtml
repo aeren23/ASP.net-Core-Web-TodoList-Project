@@ -1,0 +1,17 @@
+﻿@model CreateTaskDto
+@{
+    ViewData["Title"] = "AddTask";
+    Layout = "~/Views/Shared/_TodoLayout.cshtml";
+}
+<form class="formm" method="post">
+    <div class="form-group">
+        <label for="taskDate">Task Date:</label>
+        <input type="date" asp-for="Date" class="form-control" id="taskDate" name="Date">
+    </div>
+    <div class="form-group">
+        <label for="taskContent">Task Content:</label>
+        <input type="text" class="form-control" asp-for="Content" id="taskContent" name="Content" placeholder="Enter task content">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+

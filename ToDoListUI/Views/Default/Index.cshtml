@@ -1,0 +1,40 @@
+﻿@model List<ResultTaskDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_TodoLayout.cshtml";
+    int count = 0;
+}
+
+<div class="task-list">
+    <h1>Task List</h1>
+    <table class="table table-bordered">
+        <tr>
+            <th>#</th>
+            <th>Task</th>
+            <th>Last Date</th>
+            <th></th>
+            <th></th>
+        </tr>
+        @foreach(var item in Model){
+            count++;
+            <form asp-controller="Default" asp-action="CompleteTask" method="post">
+            <tr>
+                <td>@count</td>
+                <td>@item.Content</td>
+                <td>@item.Date.ToString("dd/MM/yyyy")</td>
+                <td>
+                 
+                    <input type="hidden" name="ID" value="@item.ID" />
+                    <input type="hidden" name="Content" value="@item.Content" />
+                    <input type="hidden" name="Date" value="@item.Date.ToString("yyyy-MM-dd")" />
+                    <button type="submit" class="btn btn-success">Completed</button>
+                 
+                </td>
+                <td><a href="/Default/DeleteTask/@item.ID" class="btn btn-danger">Delete</a></td>
+            </tr>
+        </form>
+        }
+    </table>
+    <a href="/Default/AddTask/" class="btn mb-1 btn-rounded btn-info">Add a New Task</a>
+</div>
+

@@ -1,0 +1,85 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ToDo List</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
+    <link rel="stylesheet" href="~/ToDo List Asp.Net Project Frontend/style.css" />
+</head>
+<body>
+    <header class="header">
+        <div class="headerdiv"><h1>To Do List Project</h1></div>
+    </header>
+
+    <div class="content">
+
+        <form method="post ">
+            <label for=""><b>New Task:</b></label>
+            <br>
+            <br>
+            <label id="taskDateLbl" for="taskDate">Task Date:</label>
+            <input type="date" id="taskDate" name="taskDate">
+
+            <div class="input-group mb-3 mt-5">
+                <input id="txtTaskName" name="taskName" type="text" class="form-control"
+                       placeholder="Type a new task" aria-describedby="btnAddNewTask">
+                <div class="input-group-append">
+                    <button class="btn btnM" type="submit" id="btnAddNewTask">
+                        <i class="fas fa-plus"></i>
+                    </button>
+                </div>
+            </div>
+        </form>
+
+        <div class="task-list">
+            <h1>Task List</h1>
+            <table class="table table-bordered">
+                <tr>
+                    <th>#</th>
+                    <th>Task</th>
+                    <th>Last Date</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                
+                <tr>
+                    <td>ID</td>
+                    <td>Task_string</td>
+                    <td>Task_Date_string</td>
+                    <td><a href="#" class="btn btn-danger">Delete</a></td>
+                    <td><a href="#" class="btn btn-success">Completed</a></td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="completed-task">
+            <h1>Completed Tasks</h1>
+            <table class="table table-bordered">
+                <tr>
+                    <th>#</th>
+                    <th>Task</th>
+                    <th>Date Completed</th>
+                    <th></th>
+                </tr>
+                
+                <tr>
+                    <td>ID</td>
+                    <td>Task_string</td>
+                    <td>Date</td>
+                    <td><a href="#" class="btn btn-danger">Delete</a></td>
+                </tr>
+            </table>
+        </div>
+
+    </div>
+    <footer id="foot">
+    </footer>
+</body>
+</html>

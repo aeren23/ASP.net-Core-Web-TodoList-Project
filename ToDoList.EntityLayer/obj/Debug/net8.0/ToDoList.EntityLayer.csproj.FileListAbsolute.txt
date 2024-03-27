@@ -1,0 +1,14 @@
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\bin\Debug\net8.0\ToDoList.EntityLayer.deps.json
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\bin\Debug\net8.0\ToDoList.EntityLayer.runtimeconfig.json
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\bin\Debug\net8.0\ToDoList.EntityLayer.dll
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\bin\Debug\net8.0\ToDoList.EntityLayer.pdb
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\obj\Debug\net8.0\ToDoList.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\obj\Debug\net8.0\ToDoList.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\obj\Debug\net8.0\ToDoList.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\obj\Debug\net8.0\ToDoList.EntityLayer.AssemblyInfo.cs
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\obj\Debug\net8.0\ToDoList.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\obj\Debug\net8.0\ToDoList.EntityLayer.dll
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\obj\Debug\net8.0\refint\ToDoList.EntityLayer.dll
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\obj\Debug\net8.0\ToDoList.EntityLayer.pdb
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\obj\Debug\net8.0\ToDoList.EntityLayer.genruntimeconfig.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.EntityLayer\obj\Debug\net8.0\ref\ToDoList.EntityLayer.dll

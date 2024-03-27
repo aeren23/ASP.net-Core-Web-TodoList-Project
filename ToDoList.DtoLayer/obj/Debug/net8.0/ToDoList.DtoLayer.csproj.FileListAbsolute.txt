@@ -1,0 +1,14 @@
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\bin\Debug\net8.0\ToDoList.DtoLayer.deps.json
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\bin\Debug\net8.0\ToDoList.DtoLayer.runtimeconfig.json
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\bin\Debug\net8.0\ToDoList.DtoLayer.dll
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\bin\Debug\net8.0\ToDoList.DtoLayer.pdb
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\obj\Debug\net8.0\ToDoList.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\obj\Debug\net8.0\ToDoList.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\obj\Debug\net8.0\ToDoList.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\obj\Debug\net8.0\ToDoList.DtoLayer.AssemblyInfo.cs
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\obj\Debug\net8.0\ToDoList.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\obj\Debug\net8.0\ToDoList.DtoLayer.dll
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\obj\Debug\net8.0\refint\ToDoList.DtoLayer.dll
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\obj\Debug\net8.0\ToDoList.DtoLayer.pdb
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\obj\Debug\net8.0\ToDoList.DtoLayer.genruntimeconfig.cache
+C:\Users\alihe\source\repos\ToDo List Project\ToDoList.DtoLayer\obj\Debug\net8.0\ref\ToDoList.DtoLayer.dll

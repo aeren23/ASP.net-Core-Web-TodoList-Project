@@ -1,0 +1,28 @@
+﻿@model List<ResultTaskDto>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_TodoLayout.cshtml";
+    int count = 0;
+}
+<div class="completed-task">
+    <h1>Completed Tasks</h1>
+    <table class="table table-bordered">
+        <tr>
+            <th>#</th>
+            <th>Task</th>
+            <th>Date Completed</th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            count++;
+            <tr>
+                <td>@count</td>
+                <td>@item.Content</td>
+                <td>@item.Date.ToString("dd/MM/yyyy")</td>
+                <td><a href="/CompletedTask/DeleteCompletedTask/@item.ID" class="btn btn-danger">Delete</a></td>
+            </tr>
+        }
+    </table>
+</div>
+
